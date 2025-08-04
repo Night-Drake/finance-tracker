@@ -11,7 +11,7 @@ A robust Python application for intelligent financial management with dual track
 
 
 
-📂 Project Structure
+## 📂 Project Structure
 
 finance-tracker/
 ├── data/               # JSON data stores
