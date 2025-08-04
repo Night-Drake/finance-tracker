@@ -15,13 +15,21 @@ A robust Python application for intelligent financial management with dual track
 
 finance-tracker/
 ├── data/               # JSON data stores
+
 │   ├── finance_data.json    # Balance data
+
 │   ├── expenses_data.json   # Bill records
+
 │   └── daily_expenses.json  # Spend logs
+
 ├── features/           # Core modules
+
 │   ├── balance.py      # Fund management
+
 │   ├── bills.py        # Payment tracking
+
 │   └── analytics.py    # Insights engine
+
 └── main.py             # Application entry
 
 
