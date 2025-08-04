@@ -1,0 +1,28 @@
+{
+  "expenses": [
+    {
+      "description": "cofe",
+      "amount": 2.0,
+      "date": "2025-02-07",
+      "reviewed": true
+    },
+    {
+      "description": "h",
+      "amount": 50.0,
+      "date": "2025-10-30",
+      "reviewed": false
+    },
+    {
+      "description": "cofe",
+      "amount": 2.0,
+      "date": "2025-12-5",
+      "reviewed": false
+    },
+    {
+      "description": "cofe",
+      "amount": 20.0,
+      "date": "2025-05-12",
+      "reviewed": false
+    }
+  ]
+}

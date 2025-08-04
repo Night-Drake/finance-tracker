@@ -1,0 +1,10 @@
+{
+  "warning_thresholds": {
+    "food": 300,
+    "shopping": 200,
+    "entertainment": 150,
+    "transport": 100,
+    "other": 500
+  },
+  "monthly_income": 400
+}

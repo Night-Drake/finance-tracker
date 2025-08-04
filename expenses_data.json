@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "home",
+    "water",
+    "elec",
+    "internet"
+  ],
+  "expenses": [
+    {
+      "category": "elec",
+      "amount": 10.0,
+      "date": "2025-08-04"
+    },
+    {
+      "category": "water",
+      "amount": 20.0,
+      "date": "2025-05-12"
+    },
+    {
+      "category": "home",
+      "amount": 250.0,
+      "date": "2025-10-3"
+    },
+    {
+      "category": "internet",
+      "amount": 10.0,
+      "date": "2020-12-30"
+    },
+    {
+      "category": "home",
+      "amount": 250.0,
+      "date": "2025-08-04"
+    },
+    {
+      "category": "home",
+      "amount": 250.0,
+      "date": "2025-04-20"
+    }
+  ]
+}
