@@ -35,6 +35,6 @@ finance-tracker/
 
 ```bash
 # Clone & run
-git clone https://github.com/yourusername/finance-tracker.git
+git clone https://github.com/Night-Drake/finance-tracker
 cd finance-tracker
 python main.py
